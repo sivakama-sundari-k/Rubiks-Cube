@@ -16,8 +16,6 @@ The original Rubik’s Cube is a 3D combination puzzle invented in 1974 by Hunga
 ![pic 9](https://user-images.githubusercontent.com/88772143/129011530-f6877107-20d5-4858-9ebb-310c7ad260f6.png)
 ![pic 10](https://user-images.githubusercontent.com/88772143/129011531-ef769690-ec37-420a-88e2-ca53a4a3508e.png)
 ![pic 11](https://user-images.githubusercontent.com/88772143/129011532-333356af-097e-4f1e-82e1-011e8f1d3a11.png)
-[Understanding the Project.docx](https://github.com/sivakama-sundari/Rubiks-Cube/files/6967536/Understanding.the.Project.docx)
-
 
 3.4	PSEUDO CODE
 
