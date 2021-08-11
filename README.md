@@ -1,5 +1,10 @@
 # Rubiks-Cube
 Computer Graphics Mini Project (using OpenGL, C++)
+
+ABSTRACT
+The original Rubik’s Cube is a 3D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik and was originally called the “Magic Cube”. This invention caused the widespread interest in the world owing to its unique characteristics, which exerted a profound impact on mankind. Rubik’s Cube is listed as one of the 100 most influential inventions during the 20th century. It consists of 6 faces with each face having the colors red, green, yellow, blue, orange and white. The objective of the game is to make sure all the 6 sides of the cube match the color of the center piece (which cannot be moved). In order to design a RUBIKs Cube having the same concept of the original toy which is to solve the cube to attain the result in which all the 6 sides of the cube match the color of the center piece, we use the concepts of OpenGL programming in which we have implemented our project's ideology. The cube floating in a space can be rotated using either key bind which allow you to rotate a particular piece or with the given user interface which allows you to interact with the cube by the use of the mouse, simply right clicking over the object and choosing the desired option. The speed of rotation of the cube can also be changed, if you wish to increase or decrease the speed by using the respective keys. The shuffled cube can also be solved by pressing the key ‘o’ consecutively until the cube is solved. It is implemented using a simple algorithm. The project has been developed and implemented using C++ and OpenGL in CodeBlocks.
+
+
 ![pic 13](https://user-images.githubusercontent.com/88772143/129011512-58326863-0dc9-41cd-898d-daeea56f69e2.png)
 ![pic 1](https://user-images.githubusercontent.com/88772143/129011516-4767a1d1-3416-4c3a-b5b9-74ff97d3ab17.png)
 ![pic 2](https://user-images.githubusercontent.com/88772143/129011517-f4fe091f-884d-4160-a2b1-59744fc616de.jpg)
@@ -13,8 +18,6 @@ Computer Graphics Mini Project (using OpenGL, C++)
 ![pic 11](https://user-images.githubusercontent.com/88772143/129011532-333356af-097e-4f1e-82e1-011e8f1d3a11.png)
 [Understanding the Project.docx](https://github.com/sivakama-sundari/Rubiks-Cube/files/6967536/Understanding.the.Project.docx)
 
-ABSTRACT
-The original Rubik’s Cube is a 3D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Ernő Rubik and was originally called the “Magic Cube”. This invention caused the widespread interest in the world owing to its unique characteristics, which exerted a profound impact on mankind. Rubik’s Cube is listed as one of the 100 most influential inventions during the 20th century. It consists of 6 faces with each face having the colors red, green, yellow, blue, orange and white. The objective of the game is to make sure all the 6 sides of the cube match the color of the center piece (which cannot be moved). In order to design a RUBIKs Cube having the same concept of the original toy which is to solve the cube to attain the result in which all the 6 sides of the cube match the color of the center piece, we use the concepts of OpenGL programming in which we have implemented our project's ideology. The cube floating in a space can be rotated using either key bind which allow you to rotate a particular piece or with the given user interface which allows you to interact with the cube by the use of the mouse, simply right clicking over the object and choosing the desired option. The speed of rotation of the cube can also be changed, if you wish to increase or decrease the speed by using the respective keys. The shuffled cube can also be solved by pressing the key ‘o’ consecutively until the cube is solved. It is implemented using a simple algorithm. The project has been developed and implemented using C++ and OpenGL in CodeBlocks.
 
 3.4	PSEUDO CODE
 
